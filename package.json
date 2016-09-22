@@ -1,0 +1,17 @@
+{
+  "name": "Anmol-Quotes",
+  "version": "1.0.0",
+  "description": "Displays a random quote",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "edureka",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "express": "^4.13.3",
+    "nodemon": "^1.10.2"
+  }
+}
